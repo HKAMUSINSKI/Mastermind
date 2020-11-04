@@ -4,7 +4,7 @@
 
 
 class PatternGenerator {
-    std::string pattern= "";
+    std::string pattern= "abcd";
 
 
 public:
